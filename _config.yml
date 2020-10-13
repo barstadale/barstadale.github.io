@@ -1,19 +1,19 @@
 # Site wide configuration
 
-title: Site Title
+title: Barstadale
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Alecsander Barstad
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "My name is Alec Barstad. I am recent graduate of PCC's bioscience technology program, a member of Build EXITO's 6th cohort of scholors and an entry level Research Assistant the Karstens Lab at Oregon Health and Science University under Dr. Lisa Karstens. I have experience in microbiology and informatics focusing primarly on R Studio and R Markdown. "
+  email: barstad@ohsu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
-  linkedin: #username
-  github: #username
+  linkedin: Alecsander Barstad
+  github: barstadale
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
